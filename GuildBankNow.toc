@@ -1,0 +1,10 @@
+## Interface: 11303
+## Title: Guild Bank Now
+## Author: RestoPesto
+## Version: 0.1
+
+## SavedVariables: GuildBankNowDB
+
+embeds.xml
+
+Core.lua
