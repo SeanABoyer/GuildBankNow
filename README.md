@@ -1,1 +1,2 @@
 # GuildBankNow
+This is the source code for the GuildBankNow Wow Classic Addon. This obtains the data that the Application [GuildBankNowApp](https://github.com/SeanABoyer/GuildBankNowApp) uses to upload it to discord.
